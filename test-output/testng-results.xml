@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Title Not Matched]]>
+    </line>
+    <line>
+      <![CDATA[Click on Login Button]]>
+    </line>
+    <line>
+      <![CDATA[MouseOver on PIM]]>
+    </line>
+    <line>
+      <![CDATA[Click on AddEmployee Button]]>
+    </line>
+    <line>
+      <![CDATA[Enter Frame]]>
+    </line>
+    <line>
+      <![CDATA[Title Matched]]>
+    </line>
+    <line>
+      <![CDATA[File Uploaded Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Save Button]]>
+    </line>
+    <line>
+      <![CDATA[Exit Frame]]>
+    </line>
+    <line>
+      <![CDATA[Logout Completed]]>
+    </line>
+    <line>
+      <![CDATA[Application Closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-31T08:14:41Z" name="Default suite" finished-at="2024-01-31T08:15:27Z" duration-ms="45869">
+    <groups>
+    </groups>
+    <test started-at="2024-01-31T08:14:41Z" name="Default test" finished-at="2024-01-31T08:15:27Z" duration-ms="45869">
+      <class name="com.hrms.testscripts.TC001">
+        <test-method signature="tc001()[pri:0, instance:com.hrms.testscripts.TC001@368247b9]" started-at="2024-01-31T13:44:41Z" name="tc001" finished-at="2024-01-31T13:45:27Z" duration-ms="45835" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Title Not Matched]]>
+            </line>
+            <line>
+              <![CDATA[Click on Login Button]]>
+            </line>
+            <line>
+              <![CDATA[MouseOver on PIM]]>
+            </line>
+            <line>
+              <![CDATA[Click on AddEmployee Button]]>
+            </line>
+            <line>
+              <![CDATA[Enter Frame]]>
+            </line>
+            <line>
+              <![CDATA[Title Matched]]>
+            </line>
+            <line>
+              <![CDATA[File Uploaded Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Save Button]]>
+            </line>
+            <line>
+              <![CDATA[Exit Frame]]>
+            </line>
+            <line>
+              <![CDATA[Logout Completed]]>
+            </line>
+            <line>
+              <![CDATA[Application Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+      </class> <!-- com.hrms.testscripts.TC001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
